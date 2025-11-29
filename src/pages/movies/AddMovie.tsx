@@ -40,7 +40,7 @@ function AddMovie (){
     return <div className="container mx-auto">
         <div className="d-flex justify-content-between mb-3">
         <h4> Add Movie Page</h4>
-        <NavLink to = "/" className="btn btn-primary"> List Movies </NavLink>
+        <NavLink to = "/movie" className="btn btn-primary"> List Movies </NavLink>
         </div>
 
         <div>
